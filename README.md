@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artem Padalka</h1>
 <h3 align="center">A student from Ukraine</h3>
 
-- 🔭 I’m currently working on **Wide-Delivery**
+- 🔭 I’m currently working on **Wide Delivery**
 
 - 🌱 I’m currently learning **Android, Kotlin, Java**
 
