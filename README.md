@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Wide Delivery**
 
-- 🌱 I’m currently learning **Android, Kotlin, Java**
+- 🌱 I’m currently learning **Android, IOS, Kotlin, Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/metraakladap](https://github.com/metraakladap)
 
