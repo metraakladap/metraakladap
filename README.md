@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem Padalka</h1>
-<h3 align="center">A student from Ukraine</h3>
+<h3 align="center">A mobile dev from Ukraine</h3>
 
 - 🔭 I’m currently working on **Wide Delivery**
 
