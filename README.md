@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem Padalka</h1>
 <h3 align="center">A mobile dev from Ukraine</h3>
 
-- 🔭 I’m currently working on **Wide Delivery**
-
 - 🌱 I’m currently learning **Android, IOS, Kotlin, Swift, Backend, Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/metraakladap](https://github.com/metraakladap)
