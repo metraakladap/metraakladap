@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Artem Padalka</h1>
-<h3 align="center">A mobile dev from Ukraine</h3>
+<h3 align="center">A software developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **Android, IOS, Kotlin, Swift, Backend, Rust**
+- 💻 I’m passionate about creating efficient and user-friendly software  
+- 🌱 I’m currently working with **Android, iOS, Kotlin, Swift, Backend, and Rust**  
+- ⚙️ I enjoy exploring **system design, backend services, and automation tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/metraakladap](https://github.com/metraakladap)
 
